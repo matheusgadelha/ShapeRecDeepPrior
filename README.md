@@ -1,2 +1,2 @@
-# ShapeRecShapePrior
+# Shape Reconstruction using Differentiable Projections and Deep Priors
 Repository for the ICCV 2019 paper Shape Reconstruction using Differentiable Projections and Deep Priors
